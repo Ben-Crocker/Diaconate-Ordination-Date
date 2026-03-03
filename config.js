@@ -45,14 +45,14 @@ window.CONFIG = {
     "thanksgivingMass": true
   },
   "countdown": {
-    "targetDate": "2026-05-23T10:00:00-04:00",
+    "targetDate": "2026-04-25T10:00:00-06:00",
     "label": "Countdown to Ordination",
-    "reflectionText": "I was not a fan of having a countdown timer until someone flipped the interpretation on its head for me. They saw it as the number of Masses, Holy Hours, and Rosaries left to pray beforehand. That insight convinced me to add this here."
+    "reflectionText": ""
   },
   "details": {
     "heading": "Ordination Day",
-    "dateDisplay": "May 23, 2026",
-    "body": "The Archdiocese of Atlanta has confirmed the date and location. I look forward to celebrating this day with all of you — whether in person or in spirit."
+    "dateDisplay": "April 25, 2026",
+    "body": "The Diocese of Dallas has confirmed the date and location. I look forward to celebrating this day with all of you — whether in person or in spirit."
   },
   "intentions": {
     "heading": "Prayer Intentions",
@@ -83,11 +83,11 @@ window.CONFIG = {
   "ordinationMass": {
     "eyebrow": "Mass of Ordination",
     "heading": "Diaconate Ordination",
-    "description": "The final details from the Archdiocese will be shared here, along with arrival guidance and parking notes.",
-    "parish": "St. Peter Chanel Catholic Church",
-    "date": "May 23, 2026",
-    "time": "10:00 AM Eastern",
-    "address": "11330 Woodstock Rd, Roswell, GA 30075",
+    "description": "",
+    "parish": "St. Elizabeth Ann Seton Catholic Church",
+    "date": "April 25, 2026",
+    "time": "10:00 AM Central",
+    "address": "2700 Spring Creek Pkwy, Plano, TX 75023",
     "parking": "On-campus parking available by the Church and Schools.",
     "mapsEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5010.256663636794!2d-84.38988440156336!3d34.055765091397916!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88f573111d85d80f%3A0x6bef3af4908a9b07!2sSt.%20Peter%20Chanel%20Catholic%20Church!5e0!3m2!1sen!2sus!4v1762803330253!5m2!1sen!2sus"
   },
@@ -95,10 +95,10 @@ window.CONFIG = {
     "eyebrow": "Mass of Thanksgiving",
     "heading": "Celebration Mass & Reception",
     "description": "All are welcome to pray together the day after ordination.",
-    "parish": "St. Peter's Catholic Church",
-    "date": "May 24, 2026",
-    "time": "11:00 AM Eastern",
-    "address": "200 Lafayette Pkwy, LaGrange, GA 30241",
+    "parish": "St. Joseph's Catholic Church",
+    "date": "April 25, 2026",
+    "time": "8:30 AM Central",
+    "address": "600 S Jupiter Rd, Richardson, TX 75081",
     "parking": "Light refreshments are planned immediately after Mass.",
     "mapsEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3344.705499647885!2d-85.03162428833699!3d33.03788847344538!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x888b569b7b4a1595%3A0xa0a88297a7c80116!2sSt.%20Peter's%20Catholic%20Church!5e0!3m2!1sen!2sus!4v1762803696059!5m2!1sen!2sus"
   },
