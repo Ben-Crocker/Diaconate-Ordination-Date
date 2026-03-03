@@ -30,7 +30,7 @@ window.CONFIG = {
     "photoUrl": ""
   },
   "appearance": {
-    "theme": "slate"
+    "theme": "navy"
   },
   "sections": {
     "announcementTitle": true,
@@ -102,11 +102,5 @@ window.CONFIG = {
     "parking": "Light refreshments are planned immediately after Mass.",
     "mapsEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3348.4532878958494!2d-96.68621462347153!3d32.93903987359624!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x864c1e675376246f%3A0xaa67dbe74c9c7caf!2sSt.%20Joseph%20Catholic%20Church!5e0!3m2!1sen!2sus!4v1772572101079!5m2!1sen!2sus"
   },
-  "extraElements": [
-    {
-      "type": "scripture",
-      "reference": "John 1:1",
-      "text": "In the beginning was the Word"
-    }
-  ]
+  "extraElements": []
 };
