@@ -30,7 +30,7 @@ window.CONFIG = {
     "photoUrl": ""
   },
   "appearance": {
-    "theme": "slate"
+    "theme": "navy"
   },
   "sections": {
     "announcementTitle": true,
