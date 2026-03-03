@@ -18,14 +18,14 @@
 
 window.CONFIG = {
   "identity": {
-    "candidateName": "Gabriel Whitlow",
+    "candidateName": "Benjamin Crocker",
     "eventTitle": "Diaconate Ordination — 2026",
-    "eyebrow": "Archdiocese of Atlanta",
+    "eyebrow": "Diocese of Dallas",
     "leadText": "With gratitude for the Lord's call and the support of family and friends, I look toward ordination to the transitional diaconate. Please keep me in your prayers as the day approaches."
   },
   "announcementTitle": {
     "prefix": "Announcing the Ordination of",
-    "name": "NAME",
+    "name": "Benjamin Crocker",
     "suffix": "to the Sacred Order of Deacons",
     "photoUrl": ""
   },
