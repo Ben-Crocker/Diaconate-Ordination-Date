@@ -30,7 +30,7 @@ window.CONFIG = {
     "photoUrl": ""
   },
   "appearance": {
-    "theme": "navy"
+    "theme": "slate"
   },
   "sections": {
     "announcementTitle": true,
@@ -105,8 +105,8 @@ window.CONFIG = {
   "extraElements": [
     {
       "type": "scripture",
-      "reference": "John 1:1",
-      "text": "In the beginning was the Word"
+      "reference": "Ephesians 4: 11-12",
+      "text": "And his gifts were that some should be apostles, some prophets, some evangelists, some pastors and teachers, for the equipment of the saints, for the work of ministry, for building up the body of Christ"
     }
   ]
 };
