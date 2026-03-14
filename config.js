@@ -39,8 +39,8 @@ window.CONFIG = {
     "details": true,
     "intentions": true,
     "catechesis": true,
-    "livestream": true,
-    "rsvp": true,
+    "livestream": false,
+    "rsvp": false,
     "ordinationMass": true,
     "thanksgivingMass": true
   },
