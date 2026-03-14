@@ -107,6 +107,12 @@ window.CONFIG = {
       "type": "scripture",
       "reference": "Ephesians 4: 11-12",
       "text": "And his gifts were that some should be apostles, some prophets, some evangelists, some pastors and teachers, for the equipment of the saints, for the work of ministry, for building up the body of Christ"
+    },
+    {
+      "type": "imageBlock",
+      "url": "https://image2url.com/r2/default/images/1773521201567-4dbf895a-2d65-4c31-bccd-4fb5593c5bce.jpg",
+      "alt": "",
+      "caption": ""
     }
   ]
 };
