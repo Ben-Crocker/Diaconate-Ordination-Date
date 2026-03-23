@@ -96,10 +96,10 @@ window.CONFIG = {
     "heading": "Celebration Mass & Reception",
     "description": "All are welcome to pray together the day after ordination.",
     "parish": "St. Joseph's Catholic Church",
-    "date": "April 25, 2026",
+    "date": "April 26, 2026",
     "time": "8:30 AM Central",
     "address": "600 S Jupiter Rd, Richardson, TX 75081",
-    "parking": "Light refreshments are planned immediately after Mass.",
+    "parking": "Joint reception following the 10:30am Mass with mt classmate Ike Iwuji",
     "mapsEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3348.4532878958494!2d-96.68621462347153!3d32.93903987359624!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x864c1e675376246f%3A0xaa67dbe74c9c7caf!2sSt.%20Joseph%20Catholic%20Church!5e0!3m2!1sen!2sus!4v1772572101079!5m2!1sen!2sus"
   },
   "extraElements": [
