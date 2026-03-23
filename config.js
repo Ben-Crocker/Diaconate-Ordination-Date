@@ -88,7 +88,7 @@ window.CONFIG = {
     "date": "April 25, 2026",
     "time": "10:00 AM Central",
     "address": "2700 Spring Creek Pkwy, Plano, TX 75023",
-    "parking": "On-campus parking available by the Church and Schools.",
+    "parking": "On-campus parking available on both sides of the church",
     "mapsEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1671.996460681458!2d-96.7514723110305!3d33.056653193387085!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x864c180af5c5d8b7%3A0x1e54ff0cff06085d!2sSt.%20Elizabeth%20Ann%20Seton%20Catholic%20Church!5e0!3m2!1sen!2sus!4v1772572526524!5m2!1sen!2sus"
   },
   "thanksgivingMass": {
@@ -99,7 +99,7 @@ window.CONFIG = {
     "date": "April 26, 2026",
     "time": "8:30 AM Central",
     "address": "600 S Jupiter Rd, Richardson, TX 75081",
-    "parking": "Joint reception following the 10:30am Mass with mt classmate Ike Iwuji",
+    "parking": "Joint reception following the 10:30am Mass with my classmate Ike Iwuji",
     "mapsEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3348.4532878958494!2d-96.68621462347153!3d32.93903987359624!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x864c1e675376246f%3A0xaa67dbe74c9c7caf!2sSt.%20Joseph%20Catholic%20Church!5e0!3m2!1sen!2sus!4v1772572101079!5m2!1sen!2sus"
   },
   "extraElements": [
